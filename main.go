@@ -19,7 +19,7 @@ package main
 
 import (
 	"github.com/mattrbianchi/twig"
-	"github.com/mitre/fusera/cmd"
+	"github.com/ncbi/fusera/cmd"
 )
 
 func init() {

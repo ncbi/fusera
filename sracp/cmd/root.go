@@ -24,15 +24,15 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/mitre/fusera/gps"
-	"github.com/mitre/fusera/info"
+	"github.com/ncbi/fusera/gps"
+	"github.com/ncbi/fusera/info"
 
-	"github.com/mitre/fusera/fuseralib"
-	"github.com/mitre/fusera/sdl"
+	"github.com/ncbi/fusera/fuseralib"
+	"github.com/ncbi/fusera/sdl"
 
 	"github.com/cavaliercoder/grab"
 	"github.com/mattrbianchi/twig"
-	"github.com/mitre/fusera/flags"
+	"github.com/ncbi/fusera/flags"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

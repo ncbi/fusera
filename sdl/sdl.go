@@ -24,10 +24,10 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/mitre/fusera/info"
+	"github.com/ncbi/fusera/info"
 
-	"github.com/mitre/fusera/flags"
-	"github.com/mitre/fusera/fuseralib"
+	"github.com/ncbi/fusera/flags"
+	"github.com/ncbi/fusera/fuseralib"
 	"github.com/pkg/errors"
 )
 

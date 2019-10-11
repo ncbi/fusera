@@ -1,6 +1,6 @@
 package main
 
-import "github.com/mitre/fusera/mock/cmd"
+import "github.com/ncbi/fusera/mock/cmd"
 
 func main() {
 	cmd.Execute()

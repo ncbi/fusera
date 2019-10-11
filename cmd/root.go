@@ -20,8 +20,8 @@ import (
 	"os"
 
 	"github.com/mattrbianchi/twig"
-	"github.com/mitre/fusera/flags"
-	"github.com/mitre/fusera/info"
+	"github.com/ncbi/fusera/flags"
+	"github.com/ncbi/fusera/info"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

@@ -3,9 +3,9 @@ package sdl
 import (
 	"time"
 
-	"github.com/mitre/fusera/fuseralib"
+	"github.com/ncbi/fusera/fuseralib"
 
-	"github.com/mitre/fusera/info"
+	"github.com/ncbi/fusera/info"
 
 	"github.com/pkg/errors"
 )

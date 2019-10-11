@@ -25,8 +25,8 @@ import (
 	"time"
 
 	"github.com/mattrbianchi/twig"
-	"github.com/mitre/fusera/awsutil"
-	"github.com/mitre/fusera/flags"
+	"github.com/ncbi/fusera/awsutil"
+	"github.com/ncbi/fusera/flags"
 	"github.com/pkg/errors"
 
 	"github.com/jacobsa/fuse"

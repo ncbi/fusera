@@ -6,7 +6,7 @@ import (
 	"mime/multipart"
 	"strings"
 
-	"github.com/mitre/fusera/gps"
+	"github.com/ncbi/fusera/gps"
 	"github.com/pkg/errors"
 )
 

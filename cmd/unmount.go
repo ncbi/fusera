@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/mattrbianchi/twig"
-	"github.com/mitre/fusera/fuseralib"
+	"github.com/ncbi/fusera/fuseralib"
 	"github.com/spf13/cobra"
 )
 

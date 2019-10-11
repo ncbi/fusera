@@ -18,7 +18,7 @@ package main
 
 import (
 	"github.com/mattrbianchi/twig"
-	"github.com/mitre/fusera/sracp/cmd"
+	"github.com/ncbi/fusera/sracp/cmd"
 )
 
 func init() {

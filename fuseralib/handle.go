@@ -25,7 +25,7 @@ import (
 	"time"
 
 	"github.com/mattrbianchi/twig"
-	"github.com/mitre/fusera/awsutil"
+	"github.com/ncbi/fusera/awsutil"
 
 	"github.com/jacobsa/fuse"
 	"github.com/jacobsa/fuse/fuseops"

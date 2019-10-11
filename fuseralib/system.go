@@ -26,7 +26,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/mitre/fusera/awsutil"
+	"github.com/ncbi/fusera/awsutil"
 	"github.com/pkg/errors"
 
 	"github.com/jacobsa/fuse"

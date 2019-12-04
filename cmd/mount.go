@@ -165,7 +165,7 @@ func mount(cmd *cobra.Command, args []string) (err error) {
 	accessions, warnings := fuseralib.FetchAccessions(API, accs, flags.Batch)
 	if warnings != nil {
 		if !flags.Silent {
-			fmt.Println(err.Error())
+			fmt.Println(warnings.Error())
 		}
 	}
 	if len(accessions) == 0 {
